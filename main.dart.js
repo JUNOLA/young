@@ -61146,7 +61146,7 @@ o=h.a
 n=A.e0(A.jd("assets/images/vjs.png",B.cc,k),f/7,o/2)
 o=A.cs(k,A.c6(A.a([B.ah,B.ed,new A.b4(B.da,n,k),new A.b4(B.cm,A.co("We take over !",k,A.bQ(k,k,B.i,k,k,k,k,k,"Ubuntu",k,k,!(b.J(i).f.a.a<800)?29:22,B.bM,k,k,1.5,!0,k,k,k,k,k,k,k,k),B.b9,k),k),B.ah],s),B.q,B.t),B.bf,k,f*0.45,k,k,B.bg,o)
 n=!(b.J(i).f.a.a<800)?100:30
-m=A.jd("assets/images/BJs.png",k,k)
+m=A.jd("assets/images/BJS.png",k,k)
 return A.a0y(e,g.ry,A.a51(r,A.a1J(A.c6(A.a([A.jN(B.aE,A.a([o,A.c6(A.a([new A.kz(h,k),A.c6(A.a([new A.b4(new A.aJ(n,0,n,0),m,k),new A.b4(B.bg,A.co("Jint\u1ebdliaS fournit des Solutions innovantes en rapport avec les nouvelles technologies.\nL\u2019\xe8re du num\xe9rique \xe0 \xe9tendu encore plus Internet, qui viens avec de nouvelles comp\xe9tences base sur les IA (Intelligence Artificielle), des circuit num\xe9riques/analogiques de pointes, plus rentable surtout les plants. Notre objectif est de participer au d\xe9veloppement de cette technologie en fournissant des solutions innovantes, \xe9volutives afin d\u2019accompagner les territoires dans leurs transformations.\n",k,A.bQ(k,k,k,k,k,k,k,k,"Raleway",k,k,b.J(i).f.a.a<800?15:20,k,k,k,1.5,!0,k,k,k,k,k,k,k,k),B.ec,k),k),new A.qd(h,k),B.jZ,B.aB],s),B.q,B.t)],s),B.q,B.t)],s),B.aQ),A.e0(k,f/10,k),B.cZ],s),B.q,B.t),p,B.d4),B.I,q,0.3,10),!0)}}
 A.a5g.prototype={
 $0(){var s=this.a,r=B.b.gaV(A.b(s.d,"_scrollController").d).cx
